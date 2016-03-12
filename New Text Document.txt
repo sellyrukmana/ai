@@ -1,0 +1,29 @@
+COMPUTING MACHINERY AND INTELLIGENCE
+By A. M. Turing
+artikel yang ditulis oleh Turing di majalah Computing Machinery and Intelligence pada tahun 1950 menjelaskan bagaimana Turing  melakukan percobaan suatu mesin mampu menunjukkan perilaku cerdas yang mirip dengan atau tak dapat dibedakan dari manusia. Dalam ujian ini, seorang penentu melakukan perbincangan dengan manusia dan mesin yang tak dapat dibedakan dari manusia biasa. Semua peserta dipisah satu sama lain. Jika sang penentu tak mampu membedakan mesin dari manusia, mesin itu dikatakan telah lulus ujian ini. Tes ini tidak memeriksa kemampuan menjawab dengan benar, tetapi seberapa mirip jawaban mesin dengan manusia. Perbincangan dibatasi melalui teks seperti papan ketik dan layar, sehingga hasilnya tidak diganggu oleh kemampuan mesin untuk mengubah kata-kata menjadi suara 1.
+Contohnya Interpretasi standar" tes Turing: pemain C, sang interogator, ditugasi menentukan pemain mana - A atau B - yang merupakan komputer dan manusia. Interogator harus membuat pertanyaan yang akan dijawab oleh mereka untuk menentukan hal tersebut.Sehingga mesin tersebut dapat berfungsi dengan baik .
+Saya sangat setuju dengan pendapat turing suatu mesin mampu menunjukkan perilaku cerdas yang mirip dengan atau tak dapat dibedakan dari manusia.
+Pada suatu saat nanti mungkin ada yang bisa melewati tes turing,Halangan yang menghambat perkembangan komputer untuk melewati Tes Turing yaitu menciptakan komputer yang bisa melampaui tes turing yang memiliki nilai cipta yang sangat efisen dalam jangka waktu panjang.
+istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut! 
+•	Pengolahan Bahasa Alami 
+Menceriakan tentang proses pembuatan model komputasi dari bahasa,sehingga dapat terjadi suatu interaksi antara manusia engan komputer dengan perantara bahasa alami.
+Contohnya: control suara pada peralatan elektronik.
+•	Knowledge representation 
+Menjelaskan tentang proses manusia dapat melihat, merasakan , memahami, dan mengerti lingkungannya melalui detektor / sensor dan bertindak  atas lingkungan itu pula melalui media sarananya ,yang bisa dimiliki oleh robot dengan model komputasi.
+Contohnya: dapat melihat, merasakan , memahami, dan mengerti lingkungannya melalui detektor / sensor.Robot mempunyai kamera, detektor infra merah, dan sebagainya sebagai sensor; dan motor-motor listrik, lengan mekanik sebagai efektornya.
+•	Automated Reasoning 
+ilmu yang menjadikan komputer untuk  menerapkan penalaran logis dalam memecahkan masalah Contohnya:   Logika Pemrograman     
+•	Machine Learning 
+Studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar Contohnya: fingerprint recognition
+•	Computer Vision
+ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati/ diobservasi. Cabang ilmu ini bersama Intelijensia Semu (Artificial Intelligence) akan mampu menghasilkan sistem intelijen visual (Visual Intelligence System). 
+Contohnya: Robotic
+•	Robotika  
+Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algorithma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot.
+ Contohnya: Robot Asimo
+
+
+BY: Selly Rukmana
+Nim: 131111998
+TP A Pagi.
+
